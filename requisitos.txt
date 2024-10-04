@@ -1,0 +1,9 @@
+# python requisitos este archivo es el requeriments.txt
+pymysql
+fastapi
+cryptography
+fastapi[standard]
+pillow
+jsonschema
+
+

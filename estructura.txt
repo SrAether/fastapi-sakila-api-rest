@@ -1,0 +1,18 @@
+# estructura.txt
+# Creado por JOSE CARLOS TAPIA COBIAN
+# CREADO PARA TAREA CREACION DE SERVICIOS USANDO FASTAPI
+
+Árbol de directorios
+.
+├── db
+│   ├── conexion.py
+│   └── modelos.py
+├── estructura.txt
+├── main.py
+├── README.md
+├── requisitos.txt
+├── respaldos
+├── routers
+│   └── peliculas_router.py
+└── servicios
+    └── peliculas_servicios.py

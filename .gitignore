@@ -1,0 +1,21 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Backup and temp files
+*.bak
+*.tmp
+
+# Environment and development files
+.env
+.venv/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup folder
+respaldos/
+
